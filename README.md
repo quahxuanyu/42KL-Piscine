@@ -1,2 +1,2 @@
 # 42KL-Piscine
-The January Pisicne @ 42KL Malaysia, code by Quah XuanYu 
+The January Pisicne @ 42KL Malaysia, coded by Quah XuanYu 
